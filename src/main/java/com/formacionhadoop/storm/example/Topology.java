@@ -24,7 +24,7 @@ class Topology implements Runnable {
 
     private StormTopology configureTopology() {
         // TODO: here we should create the topology
-        // Think about spouts, bolts and other things needed
+        // Think about spouts, bolts and other things needed, and how to connect them!
         return null;
     }
 
